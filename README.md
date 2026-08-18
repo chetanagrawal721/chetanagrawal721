@@ -52,7 +52,7 @@
 │  🤖 Artificial Intelligence        🔐 Cybersecurity           │
 │  ☁️ Cloud & Kubernetes             🧠 Intelligent Systems     │
 │  🌐 Full-Stack Development         🔬 Research & Innovation   │
-│  📊 Machine Learning               🏆 Hackathon Projects      │
+│  📊 AI and Machine Learning        🏆 Hackathon Projects      │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
